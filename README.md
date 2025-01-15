@@ -4,8 +4,8 @@
 - Currently, I’m studying **Distributed Embedded Systems** at **SEA:ME (Software Engineering Automotive & Mobility Ecosystem)** in Wolfsburg, Germany.
 - I’ve completed the 42 Common Core, which covered:
   - Systems programming
-  - Networking
+  - Network
   - Graphics
-  - Web programming
+  - Web
   - Algorithms
-  - Virtualization (e.g., Virtual Machines, Docker)
+  - System Administration
