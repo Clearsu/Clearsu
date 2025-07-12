@@ -1,7 +1,5 @@
 ## Hi there 👋
-- I’m passionate about **web frontend** and **embedded systems development**.
-- My focus is on writing **efficient, clean, scalable, and reusable code**.
-- Currently, I’m studying **Distributed Embedded Systems** at **SEA:ME (Software Engineering Automotive & Mobility Ecosystem)** in Wolfsburg, Germany.
+- I’m passionate is writing **efficient, clean, scalable, and reusable code**.
 - I’ve completed the 42 Common Core, which covered:
   - Systems programming
   - Network
@@ -9,3 +7,5 @@
   - Web
   - Algorithms
   - System Administration
+- Studied **Automotive Embedded Systems** at **SEA:ME (Wolfsbug, Germany)**
+- Currently located in Ingolstadt, Germany for my first internship at **CARIAD**.
