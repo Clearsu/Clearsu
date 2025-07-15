@@ -1,11 +1,6 @@
 ## Hi there 👋
-- I’m passionate is writing **efficient, clean, scalable, and reusable code**.
-- I’ve completed the 42 Common Core, which covered:
-  - Systems programming
-  - Network
-  - Graphics
-  - Web
-  - Algorithms
-  - System Administration
-- Studied **Automotive Embedded Systems** at **SEA:ME (Wolfsbug, Germany)**
-- Currently located in Ingolstadt, Germany for my first internship at **CARIAD**.
+About me:
+- Passionate about writing **efficient, clean, scalable, and reusable code**.
+- A member of **42 Seoul** who completed the common core.
+- Studied **Automotive Embedded Systems** at **SEA:ME (Wolfsbug, Germany)**.
+- Currently located in Ingolstadt, Germany for my first internship as a **Embedded Software Developer** at **CARIAD**.
