@@ -8,7 +8,7 @@ I work across the system stack — from firmware and kernel space to platform in
 - Majored **Biology** at Kyung Hee University, where I first encountered programming through **Python and R** for biological data analysis.
 - Transitioned into software engineering by completing **42 Seoul**, focusing on **C/C++ system programming** in Unix environments.
 - Gained hands-on automotive software experience through **SEA:ME (Wolfsburg, Germany)** and an **Embedded Software Engineer Internship at CARIAD (Ingolstadt, Germany)**.
-- Currently working as a Firmware Engineer in a fabless company.
+- Currently working as a Firmware Engineer in a fabless company in Pangyo, South Korea.
 
 ## 💼 Experience
 
